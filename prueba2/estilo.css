@@ -1,0 +1,106 @@
+main {
+    border: 1px solid red;
+    height: 665px;
+    width: 800px;
+    margin: auto;
+}
+
+header img{
+    width: 100%;
+}
+nav{
+   
+    height: 50px;
+    background-color: #1B4A48;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 100px;
+    display: inline;
+    color: ivory;
+}
+
+article{
+  
+    height: 20px;
+}
+
+#general{
+  
+    height: 350px;
+}
+
+
+#articulos{
+  
+    margin-top: 10px;
+    height: 320px;
+    width: 500px;
+    float: left;
+}
+aside{
+    background-color: #238F7A;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 320px;
+    width: 250px;
+    float: right;
+}
+
+#articulos article{
+    background-color: wheat;
+    border-radius: 20px;
+    height: 150px;
+    margin-top: 10px;   
+}
+
+article p{
+   margin-left: 5px;
+    width: 340px;
+    float: left;
+}
+article img{
+    float: right;
+    height: 120px;
+    width: 120px; 
+    margin-right: 5px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+#banner{
+    background-color: #0B6654;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: azure;
+    text-align: center;
+}
+ footer p{
+    background-color: #0B6654;
+    color: azure;
+    margin: 0;
+    
+ }
+footer{
+    background-color: #0B6654;
+  
+    height: 70px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;   
+}
+
+table tr{
+    margin-top: 20px;
+}
+
+h3{
+    margin-top: 2px;
+    margin-left: 5px;
+    display: inline;
+}
+td{
+    color: azure;
+}
